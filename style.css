@@ -200,7 +200,7 @@ nav.active .icon .line2 {
 .download {
     padding: 15px 25px;
     margin-top: 50px;
-    border-radius: 10px;
+    border-radius: 16px;
     border: none;
     outline: none;
     background-color: rgb(156, 6, 211);
@@ -611,4 +611,15 @@ input {
     }
 
 
+}
+
+
+
+.bx {
+    font-size: 30px;
+}
+
+
+.skill img {
+    width: 20px;
 }
