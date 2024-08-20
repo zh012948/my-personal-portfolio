@@ -240,10 +240,10 @@ nav.active .icon .line2 {
 }
 
 .skill-container {
-    margin-top: 50px;
+    margin-top: 20px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    column-gap: 150px;
+    column-gap: 100px;
     row-gap: 25px;
 }
 
@@ -351,6 +351,7 @@ progress {
 
 .links {
     margin-top: 20px;
+
 }
 
 .links a {
@@ -361,6 +362,13 @@ progress {
 .links a:hover {
     color: rgb(156, 6, 211);
 
+}
+
+
+
+.links .bx:hover {
+    font-size: 40px;
+    transition: 0.2s ease-in-out;
 }
 
 
@@ -515,7 +523,7 @@ input {
 
     /* Skills Set */
     .skills {
-        margin-top: 50px;
+        margin-top: 20px;
         padding-left: 20px;
     }
 
